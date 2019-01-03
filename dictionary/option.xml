@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CaseForms" max_length="40" name="option" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Case Type" max_length="40" name="x_127906_maniscata_u_choice_4" type="string">
+            <choice/>
+        </element>
+        <element label="Case Description" max_length="40" name="x_127906_maniscata_u_longint_5" type="longint"/>
+        <element attributes="edge_encryption_enabled=true" label="Case Name" max_length="40" name="x_127906_maniscata_u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Case Name" max_length="40" name="x_127906_maniscata_u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Case Number" max_length="40" name="x_127906_maniscata_u_string_8" type="string"/>
+    </element>
+</database>

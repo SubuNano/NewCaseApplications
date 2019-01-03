@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Case managements" max_length="40" name="x_127906_maniscata_case_managements" type="collection">
+        <element display="true" label="Case Description" max_length="40" name="case_description" type="longint"/>
+        <element label="Case Name" max_length="40" name="case_name" type="string"/>
+        <element label="Case Number" max_length="40" name="case_number" type="string"/>
+    </element>
+</database>
